@@ -3,8 +3,6 @@ documentType: LandingData
 title: Azure for Node.js developers
 metadata:
   document_id: d849f3b1-92db-460b-93c2-f1b8d0567b49
-  experimental: true
-  experiment_id: 2c8ed057-4788-45
   title: Azure for Node.js developers - Tutorials, API Reference
   description: Get started developing apps with Azure using the resources below to find great quickstarts, tutorials, and tools for Node.js developers.
   keywords: Azure, Node.js, SDK, API, npm
@@ -90,11 +88,15 @@ sections:
     className: cardsM
     columns: 2
     items:
-    - href: https://www.youtube.com/watch?v=9t2GWFegnkQ&list=PLlrxD0HtieHgugDxYBujMFnvSveH4fgWN
-      html: <p>A show about JavaScript, Node.js and the web</p>
+      html: See how these services, apps, and connectors work together to create interactive insights
+      <ul><li><a href="#">Get started with Power BI Desktop</a></li>
+        <li><a href="#">Get started with Power BI Service</a></li>
+        <li><a href="#">Paginated reports in Report Builder</a></li>
+        <li><a href="#">What is Power BI Report Server?</a></li>
+      </ul>
       image:
-        src: media/5-things-logo.svg
-      title: 5 Things
+        src: https://docs.microsoft.com/en-us/media/hubs/powerbi/pbi-powerbi-logo.svg
+      title: Get started creating with Power BI
 - title: Free Node.js and Azure Video Training on Pluralsight
   items:
   - type: list
