@@ -88,8 +88,7 @@ sections:
     className: cardsM
     columns: 2
     items:
-      html: See how these services, apps, and connectors work together to create interactive insights
-      <ul><li><a href="#">Get started with Power BI Desktop</a></li><li><a href="#">Get started with Power BI Service</a></li><li><a href="#">Paginated reports in Report Builder</a></li><li><a href="#">What is Power BI Report Server?</a></li></ul>
+      html: See how these services, apps, and connectors work together to create interactive insights<ul><li><a href="#">Get started with Power BI Desktop</a></li><li><a href="#">Get started with Power BI Service</a></li><li><a href="#">Paginated reports in Report Builder</a></li><li><a href="#">What is Power BI Report Server?</a></li></ul>
       image:
         src: https://docs.microsoft.com/en-us/media/hubs/powerbi/pbi-powerbi-logo.svg
       title: Get started creating with Power BI
