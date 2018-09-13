@@ -1,4 +1,5 @@
 ---
+source: https://github.com/MicrosoftDocs/windows-uwp/blob/docs/windows-apps-src/design/style/index.md
 description: Learn how to use color, typography, and icons to define your UWP app’s personality with the UWP style guide.
 keywords: uwp style guide, design guidance, typography, motion, sound, motion, app development
 title: Style for UWP apps
@@ -12,8 +13,6 @@ ms.assetid: 4df395d2-f10e-4e0e-9bf2-660f82b8a9fa
 ms.localizationpriority: medium
 ---
 # Style for UWP apps
-
-![hero image](images/header-style.svg)
 
 Style is what makes your app stand out. The style guidelines in this section help you create a Fluent Design through color, typography, and new features such as acrylic material and reveal highlight.
 
