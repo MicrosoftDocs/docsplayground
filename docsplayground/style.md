@@ -19,8 +19,8 @@ Style is what makes your app stand out. The style guidelines in this section hel
 :::row:::
     :::column:::
         ![hero image](images/header-color.svg)
-        ### [Color](style.md)
-        Color provides intuitive wayfinding through an app's various levels of information and serves as a crucial tool for reinforcing the interaction model.
+        ### [Chris](style.md)
+        Chris provides intuitive wayfinding through an app's various levels of information and serves as a crucial tool for reinforcing the interaction model.
     :::column-end:::
     :::column:::
         ![hero image](images/header-typography.svg)
