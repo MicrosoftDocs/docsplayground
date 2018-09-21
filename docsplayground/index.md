@@ -19,7 +19,6 @@ ms.localizationpriority: medium
 :::row:::
     :::column:::
         <!-- ![hero image](images/header-color.svg) -->
-        Chris Chris Chris
         ### [Chris](style.md)
         fafasdf provides intuitive wayfinding through an app's various levels of information and serves as a crucial tool for reinforcing the interaction model.
     :::column-end:::
