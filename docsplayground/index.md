@@ -18,13 +18,11 @@ ms.localizationpriority: medium
 
 :::row:::
     :::column:::
-        :::row:::
         ### [Node.js Deployment to the Cloud](style.md)
         **Deploy**, **manage**, and **scale** your Node.js applications in minutes.
-        :::row-end:::
-        :::row:::
-        [Get Started Now](https://code.visualstudio.com/tryappservice)    [Read the Docs](https://docs.microsoft.com/nodejs)
-        :::row-end:::
+
+        [Get Started Now](https://code.visualstudio.com/tryappservice)
+        [Read the Docs](https://docs.microsoft.com/nodejs)
     :::column-end:::
     :::column:::
         ![hero image](images/azwebappup.png)
