@@ -22,7 +22,7 @@ ms.localizationpriority: medium
         **Deploy**, **manage**, and **scale** your Node.js applications in minutes.
     :::column-end:::
     :::column:::
-        ![hero image](images/header-typography.svg)
+        ![hero image](images/azwebappup.png)
     :::column-end:::
 :::row-end:::
 
