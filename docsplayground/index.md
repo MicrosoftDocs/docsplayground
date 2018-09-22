@@ -36,6 +36,10 @@ ms.localizationpriority: medium
         ### Azure App Service
     :::column-end:::
     :::column:::
+        ![hero image](images/docker.svg)
+        ### Docker
+    :::column-end:::
+    :::column:::
         ![hero image](images/database.svg)
         ### MongoDB Redis SQL
     :::column-end:::
