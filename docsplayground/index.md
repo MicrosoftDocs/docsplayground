@@ -51,13 +51,37 @@ ms.localizationpriority: medium
 
 :::row:::
     :::column:::
-        ![hero image](images/header-color.svg)
-        ### [Chris](style.md)
-        Chris provides intuitive wayfinding through an app's various levels of information and serves as a crucial tool for reinforcing the interaction model.
+        ### **Linux** or Windows based Web Apps that scale.
+        Leave the infrastructure, scaling and availability up to Azure App Services while you focus on building your app with support for containers, staging, rollback, and testing-in-production.
     :::column-end:::
     :::column:::
         ![hero image](images/header-typography.svg)
-        ### [Hello there](style.md)
-       blah!! As the visual representation of language, typography’s main task is to be clear. Its style should never get in the way of that goal. The following guidelines focus on how to use typography to help users understand content easily.
+    :::column-end:::
+:::row-end:::
+
+:::row:::
+    :::column:::
+        ![hero image](images/header-typography.svg)
+    :::column-end:::
+    :::column:::
+        ### Global scale NoSQL databases, **zero code changes**.
+        Let Azure DocumentDB host your MongoDB database in the cloud and enjoy a 99.99% SLA on consistency, latency, throughput, and availability, all without changing a single line of code.
+    :::column-end:::
+:::row-end:::
+
+:::row:::
+    :::column:::
+        ### Complete **DevOps** in a single command.
+        With one command, set up continuous integration and deployment from your local or cloud hosted repository, giving you the confidence to check in early and often.
+    :::column-end:::
+    :::column:::
+        ![hero image](images/header-typography.svg)
+    :::column-end:::
+:::row-end:::
+
+:::row:::
+    :::column:::
+        ### Node.js Deployment with VS Code and Azure.
+        [Get Started Now](https://code.visualstudio.com/tryappservice)
     :::column-end:::
 :::row-end:::
