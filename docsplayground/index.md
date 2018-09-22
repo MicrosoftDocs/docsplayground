@@ -30,15 +30,19 @@ ms.localizationpriority: medium
 :::row:::
     :::column:::
         ![hero image](images/terminal.svg)
+        ### Azure CLI
     :::column-end:::
     :::column:::
         ![hero image](images/browser.svg)
+        ### Azure App Service
     :::column-end:::
     :::column:::
         ![hero image](images/database.svg)
+        ### MongoDB
     :::column-end:::
     :::column:::
         ![hero image](images/cloud-upload.svg)
+        ### Continuous Deployment
     :::column-end:::
 :::row-end:::
 
