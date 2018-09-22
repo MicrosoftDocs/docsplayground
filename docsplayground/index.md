@@ -32,7 +32,7 @@ ms.localizationpriority: medium
         ### Azure CLI
     :::column-end:::
     :::column:::
-        ![hero image](images/browser.svg)
+        ![hero image](images/terminal.svg)
         ### Azure App Service
     :::column-end:::
     :::column:::
