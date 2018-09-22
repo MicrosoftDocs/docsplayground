@@ -20,28 +20,25 @@ ms.localizationpriority: medium
     :::column:::
         <!-- ![hero image](images/header-color.svg) -->
         ### [Node.js Deployment to the Cloud](style.md)
-        Deploy, manage, and scale your Node.js applications in minutes.
-        
+        **Deploy**, **manage**, and **scale** your Node.js applications in minutes.
     :::column-end:::
     :::column:::
         ![hero image](images/header-typography.svg)
-        ### [Hello there](style.md)
-       blah!! As the visual representation of language, typography’s main task is to be clear. Its style should never get in the way of that goal. The following guidelines focus on how to use typography to help users understand content easily.
     :::column-end:::
 :::row-end:::
 
 :::row:::
     :::column:::
-        ![hero image](images/header-color.svg)
+        ![hero image](images/terminal.svg)
     :::column-end:::
     :::column:::
-        ![hero image](images/header-typography.svg)
+        ![hero image](images/browser.svg)
     :::column-end:::
     :::column:::
-        ![hero image](images/header-typography.svg)
+        ![hero image](images/database.svg)
     :::column-end:::
     :::column:::
-        ![hero image](images/header-typography.svg)
+        ![hero image](images/cloud-upload.svg)
     :::column-end:::
 :::row-end:::
 
