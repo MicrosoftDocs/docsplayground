@@ -18,7 +18,6 @@ ms.localizationpriority: medium
 
 :::row:::
     :::column:::
-        <!-- ![hero image](images/header-color.svg) -->
         ### [Node.js Deployment to the Cloud](style.md)
         **Deploy**, **manage**, and **scale** your Node.js applications in minutes.
     :::column-end:::
@@ -38,11 +37,11 @@ ms.localizationpriority: medium
     :::column-end:::
     :::column:::
         ![hero image](images/database.svg)
-        ### MongoDB
+        ### MongoDB Redis SQL
     :::column-end:::
     :::column:::
         ![hero image](images/cloud-upload.svg)
-        ### Continuous Deployment
+        ### Azure DevOps
     :::column-end:::
 :::row-end:::
 
