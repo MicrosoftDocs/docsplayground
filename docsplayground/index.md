@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 :::row:::
     :::column:::
-        ### Node.js Deployment to the Cloud
+        ## Node.js Deployment to the Cloud
         **Deploy**, **manage**, and **scale** your Node.js applications in minutes.
 
         [Get Started Now](https://code.visualstudio.com/tryappservice)
@@ -55,7 +55,7 @@ ms.localizationpriority: medium
 
 :::row:::
     :::column:::
-        ### Linux based Web Apps that scale.
+        ## Linux based Web Apps that scale.
         Leave the infrastructure, scaling and availability up to Azure App Services while you focus on building your app with support for containers, staging, rollback, and testing-in-production.
     :::column-end:::
     :::column:::
@@ -68,14 +68,14 @@ ms.localizationpriority: medium
         ![hero image](images/header-typography.svg)
     :::column-end:::
     :::column:::
-        ### Global scale Redis, MongoDB, and SQL databases
+        ## Global scale Redis, MongoDB, and SQL databases
         Cache with Redis, host your MongoDB database with a 99.99% SLA on consistency, latency, throughput, and availability without changing a line of code, and store your relational data using the world class SQL Server. 
     :::column-end:::
 :::row-end:::
 
 :::row:::
     :::column:::
-        ### Micro-services your way with Docker, Docker Compose, or Kubernetes.
+        ## Micro-services your way with Docker, Docker Compose, or Kubernetes.
         Azure App Services can host your Node.js applications in Docker containers or move up to the fully orchestrated Kubernetes environment
     :::column-end:::
     :::column:::
@@ -88,14 +88,14 @@ ms.localizationpriority: medium
         ![hero image](images/header-typography.svg)
     :::column-end:::
     :::column:::
-        ### Complete DevOps in a single command.
+        ## Complete DevOps in a single command.
         With one command, set up continuous integration and deployment from your local or cloud hosted repository, giving you the confidence to check in early and often.
     :::column-end:::
 :::row-end:::
 
 :::row:::
     :::column:::
-        ### Node.js Deployment with VS Code and Azure.
+        ## Node.js Deployment with VS Code and Azure.
 
         [Get Started Now](https://code.visualstudio.com/tryappservice)
     :::column-end:::
