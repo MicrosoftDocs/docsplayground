@@ -18,9 +18,13 @@ ms.localizationpriority: medium
 
 :::row:::
     :::column:::
+        :::row:::
         ### [Node.js Deployment to the Cloud](style.md)
         **Deploy**, **manage**, and **scale** your Node.js applications in minutes.
+        :::row-end:::
+        :::row:::
         [Get Started Now](https://code.visualstudio.com/tryappservice)    [Read the Docs](https://docs.microsoft.com/nodejs)
+        :::row-end:::
     :::column-end:::
     :::column:::
         ![hero image](images/azwebappup.png)
@@ -52,7 +56,7 @@ ms.localizationpriority: medium
 
 :::row:::
     :::column:::
-        ### **Linux** or Windows based Web Apps that scale.
+        ### Linux based Web Apps that scale.
         Leave the infrastructure, scaling and availability up to Azure App Services while you focus on building your app with support for containers, staging, rollback, and testing-in-production.
     :::column-end:::
     :::column:::
